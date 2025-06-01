@@ -1,4 +1,3 @@
-# BMGR-MAY2025-GIAI-2
 list Down the Env
  ```conda env list```
 
